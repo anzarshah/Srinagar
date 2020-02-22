@@ -101,7 +101,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 .bg{
-	  background: url(https://wallpaperaccess.com/full/107564.jpg) no-repeat center center fixed; 
+	  background: url("https://wallpaperaccess.com/full/107564.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -110,7 +110,7 @@ input[type=text]:focus, input[type=password]:focus {
 
 
 .bg2{
-	  background: url(https://images.unsplash.com/photo-1554324541-0c23d882833d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed; 
+	  background: url("https://images.unsplash.com/photo-1554324541-0c23d882833d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
